@@ -1,0 +1,5 @@
+out
+*.lock
+.DS_Store
+.gradle
+.idea
