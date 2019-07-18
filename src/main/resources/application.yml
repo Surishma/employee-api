@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/surimongo?connectTimeoutMS=1000
+      username: suri
+      password: suri
+      database: surimongo
